@@ -14,7 +14,7 @@
   </body>
 </html>
 
-css
+java
 function setup() {
   createCanvas(400, 400);
   
